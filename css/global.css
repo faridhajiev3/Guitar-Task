@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+#logo{
+    width: 12%;
+}
+.port{
+    width: 300px;
+}
+.logoimg{
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+}
+
+.logoimg2{
+    width: 150px;
+    height: auto;
+    padding: 10px;
+}
